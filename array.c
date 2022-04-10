@@ -83,7 +83,7 @@ main()
 	printf("\n%d is not present ",no);	
 	}
 	
-	
+	printf("####");
 		
 }
 	
