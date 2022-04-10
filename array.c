@@ -1,3 +1,5 @@
+#array program
+
 #include<stdio.h>
 main()
 {
